@@ -8,4 +8,6 @@ Torchvision 0.5.0
 
 SciKit-Learn 0.22.1
 
+### Usage
+
 Set the parameters you would like to use in evaluation.py, and then call ```python -m evaluation```.
